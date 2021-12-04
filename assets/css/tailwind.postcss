@@ -1,0 +1,26 @@
+:root {
+    --primary: hsl(0, 0%, 88%);
+    --background: hsl(240deg 3% 13%);
+    --accent: hsl(207, 84%, 49%);
+    --chrome: hsl(240deg 4% 16%);
+  }
+  
+  :root[theme="light"] {
+    --background: hsl(0, 0%, 88%);
+    --primary: hsl(240, 3%, 15%);
+    --chrome: hsl(240deg 6% 54%);
+  }
+  
+  @tailwind base;
+  @tailwind components;
+  @tailwind utilities;
+  
+  body {
+    @apply font-standard;
+    @apply text-primary;
+    @apply bg-background;
+  }
+  
+  ::selection {
+    background: var(--accent);
+  }
