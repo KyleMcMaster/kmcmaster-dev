@@ -12,5 +12,9 @@ export default defineNuxtConfig({
       },
     },
   },
+  target: 'static',
+  router: {
+    base: '/kmcmaster.dev/'
+  }
 })
 
