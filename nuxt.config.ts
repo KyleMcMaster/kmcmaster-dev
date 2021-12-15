@@ -12,6 +12,8 @@ export default defineNuxtConfig({
       },
     },
   },
-  target: 'static',
+  nitro: {
+    preset: 'azure_functions'
+  }
 })
 

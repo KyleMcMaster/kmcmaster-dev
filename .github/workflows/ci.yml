@@ -41,14 +41,14 @@ jobs:
       # - name: Run linter 👀
       #  run: npm run lint
 
-      - name: Run build 
+      - name: Build
         run: npm run build
+        env:
+          NITRO_PRESET: azure_functions
 
-      #- name: Run tests 🧪
-      #  run: npm run test
-
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+      - name: 'Deploy to Azure Functions'
+        uses: Azure/functions-action@v1
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
+          app-name: kmcmaster-dev
+          package: .output/deploy.zip
+          publish-profile: ${{ secrets.AZURE_FUNCTIONAPP_PUBLISH_PROFILE }}
