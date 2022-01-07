@@ -60,7 +60,7 @@
                     <h2 class="font-bold text-2xl flex justify-start">Github Contributions</h2>
                 </div>
                 <p class="text-left">
-                    Last year my overall number of contributions for 2021 were lower than 2020, I'm still proud of the activity I accomplished last year. I actively maintained my primary side project and reference application
+                    Last year my overall number of contributions for 2021 were lower than 2020, but I'm still proud of the activity I accomplished. I actively maintained my primary side project and reference application
                     <a
                         href="https://github.com/KyleMcMaster/payroll-processor"
                         class="text-accent"

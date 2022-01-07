@@ -17,7 +17,7 @@ During the summer, I try to focus on getting outdoors as much as possible. Readi
 
 ## Github Contributions
 
-Last year my overall number of contributions for 2021 were lower than 2020, I'm still proud of the activity I accomplished last year. I actively maintained my primary side project and reference application [payroll-processor](https://github.com/KyleMcMaster/payroll-processor) and saw consistent growth on the number of stars on that project. I can't believe it has over 50 now! Some of my favorite highlights for that project were upgrading it to Angular 13, .NET 6, and Azure Functions v4.
+Last year my overall number of contributions for 2021 were lower than 2020, but I'm still proud of the activity I accomplished. I actively maintained my primary side project and reference application [payroll-processor](https://github.com/KyleMcMaster/payroll-processor) and saw consistent growth on the number of stars on that project. I can't believe it has over 50 now! Some of my favorite highlights for that project were upgrading it to Angular 13, .NET 6, and Azure Functions v4.
 
 ![KyleMcMaster's 2021 GitHubWrap](../assets/images/2021_gh_wrap_og_image.png)
 
