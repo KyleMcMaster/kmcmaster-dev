@@ -1,0 +1,25 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup",
+    "start": "node .output/server/index.mjs"
+  },
+  "devDependencies": {
+    "@vue/eslint-config-prettier": "6.0.0",
+    "@vue/eslint-config-typescript": "8.0.0",
+    "autoprefixer": "^10.3.7",
+    "nuxt3": "latest",
+    "postcss": "^8.3.11",
+    "prettier": "2.4.1",
+    "push-dir": "^0.4.1",
+    "tailwindcss": "^2.2.17"
+  },
+  "dependencies": {
+    "@headlessui/vue": "1.4.1",
+    "@vueuse/core": "6.7.4",
+    "typescript-functional-extensions": "1.0.0-beta.2",
+    "vue": "3.2.20"
+  }
+}
