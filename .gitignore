@@ -3,3 +3,6 @@ node_modules
 .nuxt
 nuxt.d.ts
 .output
+/.vs/kmcmaster-dev/v17/TestStore/0/000.testlog
+/.vs/slnx.sqlite
+/.vs/kmcmaster-dev/v17/TestStore/0/testlog.manifest
