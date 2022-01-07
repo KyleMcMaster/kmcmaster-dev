@@ -23,7 +23,7 @@
                 </div>
                 <p
                     class="text-left"
-                >Last year was a big one for me in my personal life! I got married over the summer and bought a house in the fall. Looking back the timing of our wedding was perfect as Covid numbers had dipped and allowed us to have a small but fun outdoor ceremony. With the purchase of a home, I'm excited to have some side projects to accomplish that are non-technical and to work away from the keyboard for a bit. We'll see if that excited holds through remodeling our kitchen!</p>
+                >Last year was a big one for me in my personal life! I got married over the summer and bought a house in the fall. Looking back the timing of our wedding was perfect as Covid numbers had dipped and allowed us to have a small but fun outdoor ceremony. With the purchase of a home, I'm excited to have some side projects to accomplish that are non-technical and to work away from the keyboard for a bit. We'll see if that excitement holds through remodeling our kitchen!</p>
             </section>
 
             <section class="py-3">
@@ -60,7 +60,7 @@
                     <h2 class="font-bold text-2xl flex justify-start">Github Contributions</h2>
                 </div>
                 <p class="text-left">
-                    Last year my overall number of contributions for 2021 were lower than 2020, I'm still proud of the activity I accomplished last year. I actively maintained my primary side project and reference application
+                    Last year my overall number of contributions for 2021 were lower than 2020, but I'm still proud of the activity I accomplished. I actively maintained my primary side project and reference application
                     <a
                         href="https://github.com/KyleMcMaster/payroll-processor"
                         class="text-accent"
@@ -69,7 +69,7 @@
 
                 <div class="flex justify-center py-3">
                     <img
-                        src="/public/2021_gh_wrap_og_image.png"
+                        src="https://raw.githubusercontent.com/KyleMcMaster/kmcmaster.dev/feat/v3/public/2021_gh_wrap_og_image.png"
                         alt="KyleMcMaster's 2021 GitHubWrap"
                     />
                 </div>

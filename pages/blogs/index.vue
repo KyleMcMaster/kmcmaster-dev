@@ -1,7 +1,7 @@
 <template>
   <div class="flex justify-center">
     <div class="container text-center pt-3 px-4">
-      <h1 class="font-bold text-4xl py-1">Blogs:</h1>
+      <h1 class="font-bold text-4xl py-1">Blogs</h1>
       <ul>
         <li>
           <div class="flex justify-center py-3">
@@ -10,7 +10,7 @@
                 <div class="flex justify-center px-2 py-2">
                   <img
                     class="justify-center"
-                    src="/public/2021_gh_wrap_og_image.png"
+                    src="https://raw.githubusercontent.com/KyleMcMaster/kmcmaster.dev/feat/v3/public/2021_gh_wrap_og_image.png"
                     alt="KyleMcMaster's 2021 GitHubWrap"
                   />
                 </div>
