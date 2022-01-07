@@ -1,6 +1,7 @@
 <template>
-    <header class="w-full bg-black p-3 px-5 shadow-xl text-primary flex">
-        <span class="font-brand text-2xl flex items-center">
+    <header class="w-full bg-black p-2 px-5 shadow-xl text-primary flex">
+        <img src="/public/images/github-logo.png" alt="logo" class="mt-1" />
+        <span class="font-brand text-2xl flex items-center mx-1">
             <NuxtLink to="/">Kyle McMaster</NuxtLink>
         </span>
         <div class="flex-grow"></div>
@@ -22,4 +23,13 @@ const links: { name: string, url: string }[] =
         { name: "linkedin", url: "https://www.linkedin.com/in/kylerobertmcmaster/" },
         { name: "twitter", url: "https://twitter.com/kylemcmaster" }
     ];
-</script> 
+</script>
+
+<style scoped>
+img {
+    width: 1%;
+    height: 1%;
+    overflow: hidden;
+    border-radius: 50%;
+}
+</style>
