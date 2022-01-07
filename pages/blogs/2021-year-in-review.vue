@@ -68,7 +68,10 @@
                 </p>
 
                 <div class="flex justify-center py-3">
-                    <img src="/2021_gh_wrap_og_image.png" alt="KyleMcMaster's 2021 GitHubWrap" />
+                    <img
+                        src="https://raw.githubusercontent.com/KyleMcMaster/kmcmaster.dev/feat/v3/public/2021_gh_wrap_og_image.png"
+                        alt="KyleMcMaster's 2021 GitHubWrap"
+                    />
                 </div>
 
                 <p class="text-left">
