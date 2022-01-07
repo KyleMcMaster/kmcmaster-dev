@@ -1,6 +1,6 @@
 <template>
     <header class="w-full bg-black p-2 px-5 shadow-xl text-primary flex">
-        <img src="/public/github-logo.png" alt="logo" class="mt-1" />
+        <img src="/github-logo.png" alt="logo" class="mt-1" />
         <span class="font-brand text-2xl flex items-center mx-1">
             <NuxtLink to="/">Kyle McMaster</NuxtLink>
         </span>
