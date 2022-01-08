@@ -19,7 +19,7 @@
   "dependencies": {
     "@headlessui/vue": "1.4.2",
     "@vueuse/core": "6.7.4",
-    "typescript-functional-extensions": "1.0.0-beta.2",
+    "typescript-functional-extensions": "1.0.1",
     "vue": "3.2.26"
   }
 }
