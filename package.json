@@ -20,6 +20,6 @@
     "@headlessui/vue": "1.4.3",
     "@vueuse/core": "7.5.5",
     "typescript-functional-extensions": "1.1.0",
-    "vue": "3.2.29"
+    "vue": "3.2.31"
   }
 }
