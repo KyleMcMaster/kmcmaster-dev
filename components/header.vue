@@ -1,10 +1,6 @@
 <template>
-    <header class="w-full bg-black p-2 px-5 shadow-xl text-primary flex">
-        <img
-            src="https://raw.githubusercontent.com/KyleMcMaster/kmcmaster.dev/feat/v3/public/github-logo.png"
-            alt="logo"
-            class="mt-1"
-        />
+    <header class="w-full bg-black p-2 px-5 mb-2 my-2 shadow-xl text-primary flex min-h-48">
+        <img src="assets/github-logo.png" alt="logo" class="mt-1 rounded-full w-8" />
         <span class="font-brand text-2xl flex items-center mx-1">
             <NuxtLink to="/">Kyle McMaster</NuxtLink>
         </span>
@@ -29,11 +25,11 @@ const links: { name: string, url: string }[] =
     ];
 </script>
 
-<style scoped>
+<!-- <style scoped>
 img {
     width: 1%;
     height: 1%;
     overflow: hidden;
     border-radius: 50%;
 }
-</style>
+</style> -->
