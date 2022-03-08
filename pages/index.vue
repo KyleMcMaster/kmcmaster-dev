@@ -2,7 +2,7 @@
     <div class>
         <!-- extra Div since Nuxt3 pages must have single root element -->
         <div class="flex justify-center p-8">
-            <img src="assets/headshot.png" class="sm:max-w-xl rounded-full" />
+            <img src="public/headshot.png" class="sm:max-w-xl rounded-full" />
         </div>
         <div class="font-bold text-2xl sm:text-8xl text-center pt-3 px-4">
             <h1>Hey there!</h1>
