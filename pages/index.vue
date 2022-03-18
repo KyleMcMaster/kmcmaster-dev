@@ -13,7 +13,7 @@
         <div class="text-center py-8">
             <h2
                 class="sm:text-2xl py-2"
-            >I'm busy wrangling Nuxt3, tailwindcss, and Vue3 so watch this space!</h2>
+            >I'm busy wrangling Nuxt 3, Tailwind CSS, and Vue 3 so watch this space!</h2>
             <span
                 class="sm:text-xl"
             >In the meantime check the blog for updates! Lots of exciting things coming in 2022!</span>
