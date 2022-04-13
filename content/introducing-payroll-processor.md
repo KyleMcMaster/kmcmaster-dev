@@ -5,7 +5,7 @@ date: "2022-04-13T00:00:00.000Z"
 description: "A brief overview of Payroll Processor"
 ---
 
-[Payroll Processor](https://github.com/KyleMcMaster/payroll-processor) is a open source project I started in May of 2019. The general idea of the domain is from the perspective of a payroll coordinator who manages employees of a company and their payroll information. It has been a rewarding experience creating the application and working with my fellow contributors. It's long overdue but I felt the project deserved a blog post reviewing it's history and celebrating some of the humble successes it has achieved.
+[Payroll Processor](https://github.com/KyleMcMaster/payroll-processor) is a open source project I started in May of 2019. The general idea of the domain is from the perspective of a payroll coordinator who manages employees of a company and their payroll information. It has been a rewarding experience creating the application and working with my fellow contributors. It's long overdue but I felt the project deserved a blog post reviewing it's history and celebrating some of the modest successes it has achieved.
 
 ## Humble Beginnings
 
@@ -25,6 +25,6 @@ I have to give a shout out to my fellow contributors and friends for their insig
 
 As I look forward, there are many technologies I am excited about trying out inside this application's ecosystem. For local development, implementing Project Tye orchestrations would be useful for quickly running the applications. I'd like to pursue adding administration features to the domain implemented in a separate SPA using Vue3 and TailwindCSS. The existing Angular app's theme could use an overhaul along with an opportunity to review accessibility practices in semantic HTML. Expanding the Continuous Deployment process to use the existing Azure Bicep scripts as a foundation would be a great way to setup for automated integration testing and eventually get a live version of the site up and running. I've been slowly piecing together a formal roadmap for the future of the project and would love to get feedback on what I can do to make it a better reference application for those that are interested.
 
-## Clsoing Remarks
+## Closing Remarks
 
 Payroll Processor has grown to have 73 stars on GitHub which is larger than I had ever anticipated. I'm proud of the project and I'm excited to see what the future holds for it. It's great to have a sandbox application to test new technologies or patterns. I encourage others who are looking to grow their skills to pursue building side projects like this on their own or with a friend. Please feel free to reach out if you are interested in contributing and checkout the issues page for open issues and feature requests.
