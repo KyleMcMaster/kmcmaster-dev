@@ -19,7 +19,7 @@ This initial phase of building the application exposed me to a smorgasboard of m
 
 ## Contributors
 
-I have to give a shout out to my fellow contributors and friends for their insights and inspirations. First, Sean G. Wright was absolutely instrumental to the project's success. Payroll Processor simply wouldn't be where it is today without his contributions. Having him to bounce ideas off of made the project rewarding and held me accountable for contributing on days when I would lose interest. I'd like to thank [Justin Conklin](https://conklin.dev/) for assisting me with his HTML and CSS talents. Finally, I'd like to thank [David Edmiston](http://www.davidedmiston.com/) and [Pat Kelly](https://github.com/featuresnap) for their feedback and allowing me to pick their brain on different approaches and patterns.
+I have to give a shout out to my fellow contributors and friends for their insights and inspirations. First, Sean G. Wright was absolutely instrumental to the project's success. Payroll Processor simply wouldn't be where it is today without his contributions. Having him to bounce ideas off of made the project rewarding and held me accountable for contributing on days when I would lose interest. I'd like to thank [Justin Conklin](https://conklin.dev/) for assisting me with his HTML and CSS talents. Finally, I'd like to thank [Jonathan Keppler](https://github.com/JonathanKeppler), [David Edmiston](http://www.davidedmiston.com/) and [Pat Kelly](https://github.com/featuresnap) for their feedback and allowing me to pick their brain on different approaches and patterns.
 
 ## Roadmap
 
