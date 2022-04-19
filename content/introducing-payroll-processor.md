@@ -27,4 +27,4 @@ As I look forward, there are many technologies I am excited about trying out ins
 
 ## Closing Remarks
 
-Payroll Processor has grown to have 73 stars on GitHub which is larger than I had ever anticipated. I'm proud of the project and I'm excited to see what the future holds for it. It's great to have a sandbox application to test new technologies or patterns. I encourage others who are looking to grow their skills to pursue building side projects like this on their own or with a friend. Please feel free to reach out if you are interested in contributing and checkout the issues page for open issues and feature requests.
+Payroll Processor has grown to have 73 stars on GitHub which is larger than I had ever anticipated. I'm proud of the project and I'm excited to see what the future holds for it. It's great to have a sandbox application to test new technologies or patterns. I encourage others who are looking to grow their skills to pursue building side projects like this on their own or with a friend. Please feel free to reach out on Twitter if you are interested in contributing and checkout the issues page for open issues and feature requests.
