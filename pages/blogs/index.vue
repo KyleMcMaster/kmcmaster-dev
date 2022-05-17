@@ -22,6 +22,25 @@
             </NuxtLink>
           </div>
         </li>
+        <li>
+          <div class="flex justify-center py-3">
+            <NuxtLink to="/blogs/introducing-payroll-processor">
+              <div class="max-w-sm rounded overflow-hidden shadow-lg">
+                <div class="flex justify-center px-2 py-2">
+                  <img
+                    class="justify-center"
+                    src="https://raw.githubusercontent.com/KyleMcMaster/kmcmaster.dev/main/public/2021_gh_wrap_og_image.png"
+                    alt="KyleMcMaster's 2021 GitHubWrap"
+                  />
+                </div>
+                <div class="py-2">
+                  <div class="font-bold text-xl mb-2">Introducing Payroll Processor</div>
+                  <p>05/12/2022</p>
+                </div>
+              </div>
+            </NuxtLink>
+          </div>
+        </li>
       </ul>
     </div>
   </div>
