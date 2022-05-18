@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "@headlessui/vue": "1.5.0",
-    "@vueuse/core": "8.2.3",
+    "@vueuse/core": "8.5.0",
     "typescript-functional-extensions": "1.2.0",
     "vue": "3.2.33"
   }
